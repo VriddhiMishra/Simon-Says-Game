@@ -7,7 +7,7 @@ A modern and responsive **Simon Says Memory Game** built using **HTML, CSS, and 
 Click here for live demo:
 
 ```text
-
+https://simon-says-game-seven-fawn.vercel.app/
 ```
 
 ---
